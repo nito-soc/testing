@@ -1,4 +1,6 @@
 {
-  "annotate.notes": "TEST03b. Uppdaterad datum 2130-10-04",
-  "title": "Blabla. Test 03b"  
+  "annotate": {
+    "notes": "TEST04b. Uppdaterad datum 2130-10-04"
+  },
+  "title": "Blabla. Test 04b"  
 }
