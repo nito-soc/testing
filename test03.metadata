@@ -2,11 +2,11 @@
   "annotate": {
     "notes": "TEST04b. Uppdaterad datum 2130-10-04"
   },
+  //"describe": {
+  //},  
   "describe": {
+    "source-name": "TEST06.",
     "source-url": "https://www.socialstyrelsen.se"
-  },  
-  "describe": {
-    "source-name": "TEST06."
   },  
   "title": "Blabla. Test 05b"  
 }
