@@ -1,0 +1,14 @@
+"HDIA_Covid","period","Vard_Dygn_P10","Vard_Dygn_P25","Vard_Dygn_Median","Vard_Dygn_P75","Vard_Dygn_P90"
+"Totalt","Totalt",2,3,6,12,21
+"Totalt","2020-03-01 – 2020-09-30",2,4,7,13,24
+"Totalt","2020-10-01 – 2021-02-14",2,4,7,14,23
+"Totalt","2021-02-15 – 2021-07-14",2,4,6,11,21
+"Totalt","2021-07-15 – 2022-01-09",2,4,7,13,23
+"Totalt","2022-01-10 – 2022-10-28",2,3,5,10,17
+"Huvuddiagnos covid-19","Totalt",2,4,7,12,21
+"Huvuddiagnos covid-19","2020-03-01 – 2020-09-30",2,4,7,14,25
+"Huvuddiagnos covid-19","2020-10-01 – 2021-02-14",3,4,8,14,22
+"Huvuddiagnos covid-19","2021-02-15 – 2021-07-14",2,4,7,12,21
+"Huvuddiagnos covid-19","2021-07-15 – 2022-01-09",2,4,7,12,20
+"Huvuddiagnos covid-19","2022-01-10 – 2022-10-28",2,3,5,9,16
+
