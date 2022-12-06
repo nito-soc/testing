@@ -1,8 +1,8 @@
 {
   "annotate": {
-    "notes": "Uppdaterad 2022-12-15."
+    "notes": "Text nedanför figur."
   },
   "describe": {
-    "intro": "Annan ingress. Blablabla."
+    "intro": "Text ovanför figur."
   }
 }
