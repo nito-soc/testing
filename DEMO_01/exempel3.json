@@ -1,15 +1,18 @@
 {
   "annotate": {
-    "notes": "Uppdaterat 2022-12-06"
+    "notes": "Uppdaterat 2022-12-12"
+  },
+  "describe": {
+    "source-name": "Dödsorsaksregistret, Socialstyrelsen"
   },
   "visualize": {
     "rows": {
-      "row-1": {
+      "row-18": {
         "style": {
           "background": "#ba0c2f"
         }
       },
-      "row-17": {
+      "row-2": {
         "style": {
           "background": "#ba0c2f"
         }
