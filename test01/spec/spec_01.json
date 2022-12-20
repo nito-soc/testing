@@ -2,7 +2,9 @@
   "visualize": {
     "columns": {
       "2022-10-12": {
-        "append": ""
+        "sparkline": {
+          "title": "Utveckling över tid"        
+		  }
       }
     }
   }
